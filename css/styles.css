@@ -11346,7 +11346,7 @@ section#contact form#contactForm :-ms-input-placeholder {
 	pointer-events: auto;
 }
 .modalDialog > div {
-	width: 850px;
+	width: 90%;
 	position: relative;
 	margin: 10% auto;
 	padding: 5px 20px 13px 20px;
