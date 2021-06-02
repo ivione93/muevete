@@ -10965,6 +10965,7 @@ header.masthead {
   /*background-size: cover;*/
 }
 header.masthead .masthead-subheading {
+  color: #3B3465;
   font-size: 1.5rem;
   font-style: italic;
   line-height: 1.5rem;
