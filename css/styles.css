@@ -10956,7 +10956,7 @@ header.masthead {
   margin-top: -150px;
   text-align: center;
   color: #000;
-  background-image: url("../assets/img/logo.bmp");
+  /*background-image: url("../assets/img/logo.bmp");*/
   background-size: 95% 700px;
   background-color: #fff;
   background-repeat: no-repeat;
