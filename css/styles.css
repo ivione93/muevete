@@ -11385,3 +11385,7 @@ transition: opacity 400ms ease-in;
     visibility: hidden;
   }
 }
+
+.hover-bold:hover {
+  font-weight: bold;
+}
