@@ -11379,3 +11379,9 @@ transition: opacity 400ms ease-in;
 	box-shadow: 1px 1px 3px #000;
 }
 .close:hover { background: #00d9ff; }
+
+@media only screen and (max-width: 576px) {
+  .no-mobile {
+    visibility: hidden;
+  }
+}
